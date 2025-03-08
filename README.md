@@ -74,8 +74,8 @@ nx serve apps/app2
 
 Each app provides Swagger UI for API testing:
 
-- **App1 Swagger UI**: [http://localhost:3000/api](http://localhost:3000/api)
-- **App2 Swagger UI**: [http://localhost:3001/api](http://localhost:3001/api)
+- **App1 Swagger UI**: [http://localhost:3000/api-doc](http://localhost:3000/api-doc)
+- **App2 Swagger UI**: [http://localhost:3001/api-doc](http://localhost:3001/api-doc)
 
 ---
 
